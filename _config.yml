@@ -10,7 +10,7 @@
 carpentry: "cp"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Carpentries Instructor Training"
 
 
 #------------------------------------------------------------
@@ -56,7 +56,7 @@ lessondev_pre_survey: FIXME
 lessondev_pre_survey: FIXME
 
 # Set to 'true' for instructor training websites only.
-instructor_training: false
+instructor_training: true
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
 start_time: 0
